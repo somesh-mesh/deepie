@@ -33,7 +33,7 @@ Deepie is a sleek, AI-powered chatbot built with **Flutter** for the frontend an
 
 | Chat UI | Thinking Indicator | Message Input |
 |--------|--------------------|----------------|
-| ![chat_ui](assets/screens/chat.png) | ![thinking](assets/screens/thinking.png) | ![input](assets/screens/input.png) |
+| ![chat_ui](https://github.com/somesh-mesh/deepie/blob/main/assets/deepie_home.png) | ![thinking](https://github.com/somesh-mesh/deepie/blob/main/assets/chat_screen-with_thinking.png) | ![input](https://github.com/somesh-mesh/deepie/blob/main/assets/deepie_chat_main.png) |
 
 ---
 
